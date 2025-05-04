@@ -1,5 +1,5 @@
 build:
-	bundle exec jekyll build
+	bundle exec jekyll build --verbose
 
 # local testing
 test:
